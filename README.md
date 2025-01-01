@@ -57,6 +57,7 @@ I am a **Senior Fullstack Web 3.0 Developer** with extensive experience in build
 
 ## 📫 Contact
 - 📍 **Location:** Brovary, Kyiv region, Ukraine.
+- 💬 **Telegram:** [@Maksym_dev](https://t.me/Maksym_dev)
 - 📧 **Email:** [gran7777777@gmail.com](mailto:gran7777777@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/konoplinskyi](https://linkedin.com/in/konoplinskyi)
 - 🌐 **Portfolio:** [maksym.vercel.app](https://maksym.vercel.app)
